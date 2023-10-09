@@ -11,7 +11,7 @@
 {-# LANGUAGE ScopedTypeVariables #-}
 
 //DO NOT SHARE
-$6$ewy5m4ZIPWm6n69n$zKqkFGlk6dSYbVRMo3bjA8xxLCGD2KKzwYMMRXAtoeqJ9JhxU/PMtxUdTXaJ2gUz8Wv8vtT5j8zO6CQdXaBxb0
+$1$2iwExXHp$0Pp84HuiiQqYJCWwyXuK6/
 
 module GenericEnv
   ( fromEnv
